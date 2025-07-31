@@ -8,8 +8,4 @@ Please visit https://github.com/orgs/fintune-app/discussions to participate!
 
 ## Screenshots
 
-![alt text](allocation.png)
-
-![alt text](snapshot_ai.png)
-
-![alt text](snapshot-diff.png)
+<img width="1680" height="945" alt="Screenshot 2025-07-31 at 06 27 58" src="https://github.com/user-attachments/assets/4d40fdb9-0e22-4507-9e83-ceb3c4bafd81" />
