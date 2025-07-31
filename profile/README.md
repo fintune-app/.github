@@ -4,7 +4,7 @@ Fintune is a stress free financial planning and forecasting for dynamic product 
 
 This Github account is used to manage discussions, ideas, help etc. 
 
-Please visit https://github.com/orgs/fintune-app/discussions to participate!
+Please visit https://github.com/orgs/fintune-app/discussions to participate, or login via https://fintune.app 
 
 ## Screenshots
 
